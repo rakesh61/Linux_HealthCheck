@@ -71,3 +71,4 @@ do
         echo -e "CRITICAL \t ==>> \t $7"     
     fi
 done
+print("validatig")
